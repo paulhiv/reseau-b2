@@ -247,7 +247,7 @@ ESTAB       0      0      10.1.1.3:57706              10.1.1.2:8888             
 2 packets transmitted, 2 received, 0% packet loss, time 1001ms
 rtt min/avg/max/mdev = 0.543/0.738/0.933/0.195 ms
 
-- `ip route show`
+	- `ip route show`
 	>10.0.2.0/24 dev enp0s3 proto kernel scope link src 10.0.2.15 metric 100 
 10.1.1.0/24 dev enp0s8 proto kernel scope link src 10.1.1.3 metric 101 
 10.1.2.0/30 via 10.1.1.2 dev enp0s8 
