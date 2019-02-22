@@ -233,12 +233,6 @@ ESTAB       0      0      10.1.1.3:57706              10.1.1.2:8888             
 [firewall.pcap](firewall.pcap)
 
 ---
-## 3. Bonus : ARP spoofing
-
-
-
-
----
 # III. Routage statique simple
 - client 1: -   `sysctl -w net.ipv4.ip_forward=1`
 	>net.ipv4.ip_forward = 1
