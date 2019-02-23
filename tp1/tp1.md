@@ -10,7 +10,7 @@
 -   configure Adapter Manually, name: vboxnet2, IPv4 address: 10.1.2.1, IPv4 network mask: 255.255.255.252, no DHCP Server.
 
 -   combien y a-t-il d'adresses disponibles dans un  `/24`  ?
-	- 254. 256-2: l’adresse de broadcast et 0 qui est l’adresse du réseau en général ne peuvent être utilisées.
+	- 254 . 256-2: l’adresse de broadcast et 0 qui est l’adresse du réseau en général ne peuvent être utilisées.
 - combien y a-t-il d'adresses disponibles dans un `/30`?
 	-  2
 -  quelle est l'utilité d'un  `/30`  ?
