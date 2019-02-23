@@ -2,6 +2,6 @@
 
 ## Members
 
-- TP1: 
+- [TP1](https://github.com/paulhiv/reseau-b2/tree/master/tp1): 
   - Paul Hivert
   - Benjamin Picard
