@@ -5,3 +5,7 @@
 - [TP1](https://github.com/paulhiv/reseau-b2/tree/master/tp1): 
   - Paul Hivert
   - Benjamin Picard
+
+- [TP2](https://github.com/paulhiv/reseau-b2/tree/master/tp2): 
+  - Paul Hivert
+  - Clement Ximenes
